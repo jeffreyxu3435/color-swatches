@@ -38,7 +38,7 @@ I went with a Next.js web app (Next, React, Node): It's the stack I've been work
 
 ### Design
 
-I wanted a fairly simple layout with black and white which I felt would contrast well with the plethora of colors returned, and added a small flair where the saturation and lightness sliders affect the respective properties of the labels themselves. This serves as a visual indicator of what said sliders would impact as well, helping users not familiar with the color scheme understand how to use it. I also made sure to have both the slider and a text input method of input for greater granularity. The results are then displayed in order of hue. As the window width decreases (smaller browser size, mobile device), the number of elements in the grid decreases to accomodate.
+I wanted a fairly simple layout with black and white which I felt would contrast well with the plethora of colors returned, and added a small flair where the saturation and lightness sliders affect the respective properties of the labels themselves. This serves as a visual indicator of what said sliders would impact as well, helping users not familiar with the color scheme understand how to use it. I also made sure to have both the slider and a text input method of input for greater granularity. The results are then displayed in order of hue. As the window width decreases (smaller browser size, mobile device), the number of elements in the grid decreases to accomodate accordingly.
 
 ### Minimizing API Calls
 
