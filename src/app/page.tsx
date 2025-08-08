@@ -23,7 +23,7 @@ export default function Home() {
 	return (
 		<div className="font-sans flex items-center justify-center min-h-screen p-8 pb-20 sm:p-20">
 			<main className="flex flex-col gap-8 items-center w-full max-w-6xl">
-				<h1 className="text-4xl font-bold text-center">Color Swatches</h1>
+				<h1 className="text-5xl font-bold text-center">Color Swatches</h1>
 				<div className="flex flex-col gap-6 w-full max-w-md">
 					<div>
 						<label
